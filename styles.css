@@ -1,0 +1,12 @@
+body,html{
+    overflow-x: hidden;
+}
+#table-info-custom th{
+    background-color: #e246a1c5 !important;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    
+}
+.div-table{
+    margin: 10px 2rem 0 2rem;
+}
